@@ -1,4 +1,4 @@
 # Frontend Mentor - QR code component solution
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/ashinsaji/qr-code-component/
+- Live Site URL: https://qr-code-component-iota-one.vercel.app/
